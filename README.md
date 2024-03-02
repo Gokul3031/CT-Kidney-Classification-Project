@@ -12,7 +12,10 @@ CT-Kidney_Classification.ipynb: Google Colab notebook containing the project's c
 The CT-Kidney_Classification.ipynb notebook contains the code for data preprocessing, model training, and evaluation. The ResNet-101 architecture is used for image classification, and the model is trained using the provided dataset split into training, validation, and test sets.
 
 ## Evaluation
-The trained model's performance is evaluated using accuracy, precision, recall, and F1-score metrics. Confusion matrices and classification reports are generated to analyze the model's performance on the test dataset.
+The trained model's performance is evaluated using accuracy, precision, recall, and F1-score metrics. Classification reports are generated to analyze the model's performance on the test dataset.
+
+##For More Detail
+To Know more about the project, here is the drive link of the model along with its Dataset File and Code( https://drive.google.com/drive/u/1/folders/1g2-oKJSViB9OXI-aQD6agrO8ODuxXr-c )
 
 ## Future Improvements
 Experiment with different deep learning architectures to improve classification accuracy.
