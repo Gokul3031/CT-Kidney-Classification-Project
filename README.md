@@ -14,7 +14,7 @@ The CT-Kidney_Classification.ipynb notebook contains the code for data preproces
 ## Evaluation
 The trained model's performance is evaluated using accuracy, precision, recall, and F1-score metrics. Classification reports are generated to analyze the model's performance on the test dataset.
 
-##For More Detail
+## For More Detail
 To Know more about the project, here is the drive link of the model along with its Dataset File and Code( https://drive.google.com/drive/u/1/folders/1g2-oKJSViB9OXI-aQD6agrO8ODuxXr-c )
 
 ## Future Improvements
